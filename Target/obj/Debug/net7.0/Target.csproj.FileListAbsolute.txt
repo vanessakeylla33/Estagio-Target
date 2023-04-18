@@ -1,0 +1,15 @@
+C:\Target\Target\bin\Debug\net7.0\Target.exe
+C:\Target\Target\bin\Debug\net7.0\Target.deps.json
+C:\Target\Target\bin\Debug\net7.0\Target.runtimeconfig.json
+C:\Target\Target\bin\Debug\net7.0\Target.dll
+C:\Target\Target\bin\Debug\net7.0\Target.pdb
+C:\Target\Target\obj\Debug\net7.0\Target.csproj.AssemblyReference.cache
+C:\Target\Target\obj\Debug\net7.0\Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Target\Target\obj\Debug\net7.0\Target.AssemblyInfoInputs.cache
+C:\Target\Target\obj\Debug\net7.0\Target.AssemblyInfo.cs
+C:\Target\Target\obj\Debug\net7.0\Target.csproj.CoreCompileInputs.cache
+C:\Target\Target\obj\Debug\net7.0\Target.dll
+C:\Target\Target\obj\Debug\net7.0\refint\Target.dll
+C:\Target\Target\obj\Debug\net7.0\Target.pdb
+C:\Target\Target\obj\Debug\net7.0\Target.genruntimeconfig.cache
+C:\Target\Target\obj\Debug\net7.0\ref\Target.dll
