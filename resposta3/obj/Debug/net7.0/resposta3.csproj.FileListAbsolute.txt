@@ -1,0 +1,15 @@
+C:\Target\resposta3\bin\Debug\net7.0\resposta3.exe
+C:\Target\resposta3\bin\Debug\net7.0\resposta3.deps.json
+C:\Target\resposta3\bin\Debug\net7.0\resposta3.runtimeconfig.json
+C:\Target\resposta3\bin\Debug\net7.0\resposta3.dll
+C:\Target\resposta3\bin\Debug\net7.0\resposta3.pdb
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.csproj.AssemblyReference.cache
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.AssemblyInfoInputs.cache
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.AssemblyInfo.cs
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.csproj.CoreCompileInputs.cache
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.dll
+C:\Target\resposta3\obj\Debug\net7.0\refint\resposta3.dll
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.pdb
+C:\Target\resposta3\obj\Debug\net7.0\resposta3.genruntimeconfig.cache
+C:\Target\resposta3\obj\Debug\net7.0\ref\resposta3.dll
