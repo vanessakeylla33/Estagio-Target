@@ -1,0 +1,15 @@
+C:\Target\resposta4\bin\Debug\net7.0\resposta4.exe
+C:\Target\resposta4\bin\Debug\net7.0\resposta4.deps.json
+C:\Target\resposta4\bin\Debug\net7.0\resposta4.runtimeconfig.json
+C:\Target\resposta4\bin\Debug\net7.0\resposta4.dll
+C:\Target\resposta4\bin\Debug\net7.0\resposta4.pdb
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.csproj.AssemblyReference.cache
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.AssemblyInfoInputs.cache
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.AssemblyInfo.cs
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.csproj.CoreCompileInputs.cache
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.dll
+C:\Target\resposta4\obj\Debug\net7.0\refint\resposta4.dll
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.pdb
+C:\Target\resposta4\obj\Debug\net7.0\resposta4.genruntimeconfig.cache
+C:\Target\resposta4\obj\Debug\net7.0\ref\resposta4.dll
