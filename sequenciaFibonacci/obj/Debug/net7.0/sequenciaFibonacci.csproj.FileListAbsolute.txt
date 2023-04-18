@@ -1,0 +1,15 @@
+C:\Target\sequenciaFibonacci\bin\Debug\net7.0\sequenciaFibonacci.exe
+C:\Target\sequenciaFibonacci\bin\Debug\net7.0\sequenciaFibonacci.deps.json
+C:\Target\sequenciaFibonacci\bin\Debug\net7.0\sequenciaFibonacci.runtimeconfig.json
+C:\Target\sequenciaFibonacci\bin\Debug\net7.0\sequenciaFibonacci.dll
+C:\Target\sequenciaFibonacci\bin\Debug\net7.0\sequenciaFibonacci.pdb
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.csproj.AssemblyReference.cache
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.AssemblyInfoInputs.cache
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.AssemblyInfo.cs
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.dll
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\refint\sequenciaFibonacci.dll
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.pdb
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\sequenciaFibonacci.genruntimeconfig.cache
+C:\Target\sequenciaFibonacci\obj\Debug\net7.0\ref\sequenciaFibonacci.dll
