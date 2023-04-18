@@ -1,0 +1,15 @@
+C:\Target\reverseString\bin\Debug\net7.0\reverseString.exe
+C:\Target\reverseString\bin\Debug\net7.0\reverseString.deps.json
+C:\Target\reverseString\bin\Debug\net7.0\reverseString.runtimeconfig.json
+C:\Target\reverseString\bin\Debug\net7.0\reverseString.dll
+C:\Target\reverseString\bin\Debug\net7.0\reverseString.pdb
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.csproj.AssemblyReference.cache
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.AssemblyInfoInputs.cache
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.AssemblyInfo.cs
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.csproj.CoreCompileInputs.cache
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.dll
+C:\Target\reverseString\obj\Debug\net7.0\refint\reverseString.dll
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.pdb
+C:\Target\reverseString\obj\Debug\net7.0\reverseString.genruntimeconfig.cache
+C:\Target\reverseString\obj\Debug\net7.0\ref\reverseString.dll
